@@ -1,8 +1,9 @@
-# 20.4040.-Final Project: Analyzing the skin transcriptome of Alopecia areata patients
+# 20.440.-Final Project: Analyzing the skin transcriptome of Alopecia areata patients
 
 **Authors**
 
 Evan Holbrook
+
 Valeria Marquez Pellegrin
 
 
